@@ -9,4 +9,5 @@ services:
       - NODE_ENV=production
     volumes:
       - ./public:/app/public
+      - ./.next/cache:/app/.next/cache
     restart: unless-stopped

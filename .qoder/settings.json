@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "ask": [
+      "Read(!C:\\Users\\cogni\\Downloads\\code/**)",
+      "Edit(!C:\\Users\\cogni\\Downloads\\code/**)"
+    ],
+    "allow": [
+      "Read(C:\\Users\\cogni\\Downloads\\code/**)",
+      "Edit(C:\\Users\\cogni\\Downloads\\code/**)"
+    ]
+  },
+  "memoryImport": {},
+  "monitoring": {}
+}
